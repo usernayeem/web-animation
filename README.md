@@ -1,5 +1,9 @@
 # Web Animation
+## Overview
+Web Animation is a dependency-free HTML/CSS/JS project: a responsive city scene with CSS keyframe motion (road/background), Lottie vehicles, and a day/night toggle persisted via localStorage
 
+**Live Preview:**  
+[https://usernayeem.github.io/web-animation/](https://usernayeem.github.io/web-animation/)
 ---
 
 ## Table of Contents
@@ -20,9 +24,6 @@
 ## Project Description
 
 **Web Animation** is a responsive and visually engaging web project that showcases a dynamic city scene using pure HTML, CSS, and JavaScript. The animation features moving vehicles on a scrolling road against a cityscape background, with an interactive toggle for a day and night theme. The project serves as a demonstration of modern front-end techniques, including CSS keyframe animations, responsive design, and JavaScript-based user interaction.
-
-**Live Preview:**  
-[https://usernayeem.github.io/web-animation/](https://usernayeem.github.io/web-animation/)
 
 ---
 
